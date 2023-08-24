@@ -11,4 +11,6 @@ This is a simple WordPress Docker starter project.
 3. **Start the Containers:** Run the following command in the terminal to start the project:
    ```sh
    docker-compose up -d
-3. **Stop the Containers:** docker-compose down
+3. **Stop the Containers:** Run the following command in the terminal to stop the project:
+   ```sh
+   docker-compose down
