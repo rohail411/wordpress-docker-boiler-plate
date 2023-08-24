@@ -1,6 +1,14 @@
-This is a simple Wordpress Docker starter project
+# WordPress Docker Starter Project
 
-1-> Install docker in your operating system
-2-> pull the repository
-3-> just run docker-compose up -d to start it
-4-> docker-compose down to stop it
+This is a simple WordPress Docker starter project.
+
+## Instructions
+
+1. **Install Docker:** Ensure that Docker is installed on your operating system.
+
+2. **Clone the Repository:** Clone this repository to your local machine.
+
+3. **Start the Containers:** Run the following command in the terminal to start the project:
+   ```sh
+   docker-compose up -d
+3. **Stop the Containers:** docker-compose down
